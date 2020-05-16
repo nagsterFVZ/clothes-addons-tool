@@ -1,0 +1,20 @@
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\bin\Debug\ClothesGUI.exe.config
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\bin\Debug\ClothesGUI.exe
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\bin\Debug\ClothesGUI.pdb
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.csprojResolveAssemblyReference.cache
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.Form1.resources
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.Properties.Resources.resources
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.csproj.GenerateResource.cache
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.csproj.CoreCompileInputs.cache
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.exe
+E:\FiveM\FiveMDev\Addon Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.pdb
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\bin\Debug\ClothesGUI.exe.config
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\bin\Debug\ClothesGUI.exe
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\bin\Debug\ClothesGUI.pdb
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.csprojResolveAssemblyReference.cache
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.Form1.resources
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.Properties.Resources.resources
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.csproj.GenerateResource.cache
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.csproj.CoreCompileInputs.cache
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.exe
+C:\FiveMDev\Clothes\VisualStudio\ClothesGUI\ClothesGUI\obj\Debug\ClothesGUI.pdb
